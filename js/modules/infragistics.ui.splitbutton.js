@@ -1,12 +1,12 @@
 /*!@license
- * Infragistics.Web.ClientUI SplitButton 0.0.2-PreRelease.3
+ * Infragistics.Web.ClientUI SplitButton 0.16.2-PreRelease.1
  *
  * Copyright (c) 2011-2016 Infragistics Inc.
  * <Licensing info>
  *
  * http://www.infragistics.com/
  *
- * Depends on: 
+ * Depends on:
  *   jquery-1.9.1.js
  *   jquery.ui.core.js
  *   jquery.ui.widget.js

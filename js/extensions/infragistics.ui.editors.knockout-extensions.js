@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI igEditors KnockoutJS extension 0.0.2-PreRelease.3
+* Infragistics.Web.ClientUI igEditors KnockoutJS extension 0.16.2-PreRelease.1
 *
 * Copyright (c) 2011-2016 Infragistics Inc.
 *

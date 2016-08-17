@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI igCombo KnockoutJS extension 0.0.2-PreRelease.3
+* Infragistics.Web.ClientUI igCombo KnockoutJS extension 0.16.2-PreRelease.1
 *
 * Copyright (c) 2012-2016 Infragistics Inc.
 *

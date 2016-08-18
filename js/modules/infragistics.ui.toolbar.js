@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Toolbar localization resources 0.16.2-PreRelease.1
+* Infragistics.Web.ClientUI Toolbar localization resources 0.16.2-PreRelease.2
 *
 * Copyright (c) 2011-2016 Infragistics Inc.
 *
@@ -8,7 +8,7 @@
 */
 (function($){$.ig=$.ig||{};if(!$.ig.Toolbar){$.ig.Toolbar={};$.extend($.ig.Toolbar,{locale:{collapseButtonTitle:"Collapse",expandButtonTitle:"Expand"}})}})(jQuery);
 /*!@license
- * Infragistics.Web.ClientUI Toolbar 0.16.2-PreRelease.1
+ * Infragistics.Web.ClientUI Toolbar 0.16.2-PreRelease.2
  *
  * Copyright (c) 2011-2016 Infragistics Inc.
  * <Licensing info>

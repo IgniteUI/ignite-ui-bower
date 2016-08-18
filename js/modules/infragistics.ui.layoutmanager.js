@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Layout Manager 0.16.2-PreRelease.1
+* Infragistics.Web.ClientUI Layout Manager 0.16.2-PreRelease.2
 *
 * Copyright (c) 2011-2016 Infragistics Inc.
 *

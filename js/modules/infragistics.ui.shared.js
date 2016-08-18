@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI shared localization resources 0.16.2-PreRelease.1
+* Infragistics.Web.ClientUI shared localization resources 0.16.2-PreRelease.2
 *
 * Copyright (c) 2011-2016 Infragistics Inc.
 *
@@ -8,7 +8,7 @@
 */
 (function($){$.ig=$.ig||{};if(!$.ig.SharedLocale){$.ig.SharedLocale={};$.extend($.ig.SharedLocale,{locale:{}})}})(jQuery);
 /*!@license
- * Infragistics.Web.ClientUI jQuery Shared 0.16.2-PreRelease.1
+ * Infragistics.Web.ClientUI jQuery Shared 0.16.2-PreRelease.2
  *
  * Copyright (c) 2011-2016 Infragistics Inc.
  *

@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Notifier localization resources 0.16.2-PreRelease.2
+* Infragistics.Web.ClientUI Notifier localization resources 16.2.0-RC.1
 *
 * Copyright (c) 2011-2016 Infragistics Inc.
 *

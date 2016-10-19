@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI HTML Editor localization resources 16.2.0-RC.1
+* Infragistics.Web.ClientUI HTML Editor localization resources 16.2.1035
 *
 * Copyright (c) 2011-2016 Infragistics Inc.
 *

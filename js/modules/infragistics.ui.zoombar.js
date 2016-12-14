@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Zoombar localization resources 16.2.0-RC.2037
+* Infragistics.Web.ClientUI Zoombar localization resources 16.2.0-RC.2040
 *
 * Copyright (c) 2011-2016 Infragistics Inc.
 *
@@ -7,7 +7,7 @@
 *
 */
 (function($){$.ig=$.ig||{};if(!$.ig.Zoombar){$.ig.Zoombar={};$.extend($.ig.Zoombar,{locale:{zoombarTargetNotSpecified:"igZoombar requires a valid target to attach to!",zoombarTypeNotSupported:"The type of widget the Zoombar is trying to attach to is not supported!",zoombarProviderNotRecognized:"igZoombar could not initialize a provider from the class specified or the value passed is not a class.",optionChangeNotSupported:"Changing the following option after the igZoombar has been created is not supported:"}})}})(jQuery);/*!@license
- * Infragistics.Web.ClientUI ZoomBar 16.2.0-RC.2037
+ * Infragistics.Web.ClientUI ZoomBar 16.2.0-RC.2040
  *
  * Copyright (c) 2011-2016 Infragistics Inc.
  *

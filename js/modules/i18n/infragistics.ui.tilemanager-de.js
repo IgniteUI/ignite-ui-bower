@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Tile Manager localization resources 16.2.0-RC.2037
+* Infragistics.Web.ClientUI Tile Manager localization resources 16.2.0-RC.2040
 *
 * Copyright (c) 2011-2016 Infragistics Inc.
 *

@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI igEditors KnockoutJS extension 16.2.0-RC.2040
+* Infragistics.Web.ClientUI igEditors KnockoutJS extension 16.2.2040
 *
 * Copyright (c) 2011-2016 Infragistics Inc.
 *

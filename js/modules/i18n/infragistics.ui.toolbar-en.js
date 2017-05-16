@@ -1,9 +1,9 @@
 /*!@license
-* Infragistics.Web.ClientUI Toolbar localization resources 16.2.2114
+* Infragistics.Web.ClientUI Toolbar localization resources 17.1.0-rc.1
 *
 * Copyright (c) 2011-2017 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *
 */
-(function($){$.ig=$.ig||{};if(!$.ig.Toolbar){$.ig.Toolbar={};$.extend($.ig.Toolbar,{locale:{collapseButtonTitle:"Collapse",expandButtonTitle:"Expand"}})}})(jQuery);
+(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{factory(jQuery)}})(function($){$.ig=$.ig||{};if(!$.ig.Toolbar){$.ig.Toolbar={};$.extend($.ig.Toolbar,{locale:{collapseButtonTitle:"Collapse",expandButtonTitle:"Expand"}})}});

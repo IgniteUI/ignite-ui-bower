@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI templating localization resources 17.1.0-rc.4
+* Infragistics.Web.ClientUI templating localization resources 17.1.0-rc.5
 *
 * Copyright (c) 2011-2017 Infragistics Inc.
 *
@@ -7,7 +7,7 @@
 *
 */
 (function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{factory(jQuery)}})(function($){$.ig=$.ig||{};if(!$.ig.Templating){$.ig.Templating={};$.extend($.ig.Templating,{locale:{undefinedArgument:"An error has occurred while trying to retrieve data source property: "}})}});/*!@license
- * Infragistics.Web.ClientUI Templating Engine 17.1.0-rc.4
+ * Infragistics.Web.ClientUI Templating Engine 17.1.0-rc.5
  *
  * Copyright (c) 2011-2017 Infragistics Inc.
  *

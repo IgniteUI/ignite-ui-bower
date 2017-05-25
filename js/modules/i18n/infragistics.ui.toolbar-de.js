@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Toolbar localization resources 17.1.0-rc.5
+* Infragistics.Web.ClientUI Toolbar localization resources 17.1.0-rc.6
 *
 * Copyright (c) 2011-2017 Infragistics Inc.
 *

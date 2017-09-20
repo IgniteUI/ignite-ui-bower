@@ -1,9 +1,9 @@
 /*!@license
-* Infragistics.Web.ClientUI Dialog localization resources 17.1.1012
+* Infragistics.Web.ClientUI Dialog localization resources 17.2.0-beta.1
 *
 * Copyright (c) 2011-2017 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *
 */
-(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{factory(jQuery)}})(function($){$.ig=$.ig||{};if(!$.ig.Dialog){$.ig.Dialog={locale:{closeButtonTitle:"закрыть",minimizeButtonTitle:"минимизировать",maximizeButtonTitle:"максимизировать",pinButtonTitle:"прикрепить",unpinButtonTitle:"открепить",restoreButtonTitle:"восстановить",setOptionError:"Этот параметр не может быть задан во время выполнения программы"}}}});
+(function(factory){if(typeof define==="function"&&define.amd){define([],factory)}else{factory()}})(function(){$=$||{};$.ig=$.ig||{};$.ig.locale=$.ig.locale||{};$.ig.locale.ru=$.ig.locale.ru||{};$.ig.Dialog=$.ig.Dialog||{};$.ig.locale.ru.Dialog={closeButtonTitle:"закрыть",minimizeButtonTitle:"минимизировать",maximizeButtonTitle:"максимизировать",pinButtonTitle:"прикрепить",unpinButtonTitle:"открепить",restoreButtonTitle:"восстановить",setOptionError:"Этот параметр не может быть задан во время выполнения программы"};$.ig.Dialog.locale=$.ig.Dialog.locale||$.ig.locale.ru.Dialog;return $.ig.locale.ru.Dialog});

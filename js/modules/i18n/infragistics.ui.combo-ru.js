@@ -1,9 +1,9 @@
 /*!@license
-* Infragistics.Web.ClientUI Combo localization resources 17.2.0-beta.1
+* Infragistics.Web.ClientUI Combo localization resources 17.2.0-rc.1
 *
 * Copyright (c) 2011-2017 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *
 */
-(function(factory){if(typeof define==="function"&&define.amd){define([],factory)}else{factory()}})(function(){$=$||{};$.ig=$.ig||{};$.ig.locale=$.ig.locale||{};$.ig.locale.ru=$.ig.locale.ru||{};$.ig.Combo=$.ig.Combo||{};$.ig.locale.ru.Combo={noMatchFoundText:"Результатов нет",dropDownButtonTitle:"Показать список",clearButtonTitle:"Очистить значение",placeHolder:"выбрать...",notSuported:"Операция не поддерживается.",errorNoSupportedTextsType:"Требуется другой текст для фильтрации. Укажите либо текстовую строку, либо набор текстовых строк.",errorUnrecognizedHighlightMatchesMode:'Требуется другой режим выделения совпадений. Выберите значение из "multi", "contains", "startsWith", "full" и "null".',errorIncorrectGroupingKey:"Неправильный ключ группирования."};$.ig.Combo.locale=$.ig.Combo.locale||$.ig.locale.ru.Combo;return $.ig.locale.ru.Combo});
+(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{return factory(jQuery)}})(function($){$.ig=$.ig||{};$.ig.locale=$.ig.locale||{};$.ig.locale.ru=$.ig.locale.ru||{};$.ig.Combo=$.ig.Combo||{};$.ig.locale.ru.Combo={noMatchFoundText:"Результатов нет",dropDownButtonTitle:"Показать список",clearButtonTitle:"Очистить значение",placeHolder:"выбрать...",notSuported:"Операция не поддерживается.",errorNoSupportedTextsType:"Требуется другой текст для фильтрации. Укажите либо текстовую строку, либо набор текстовых строк.",errorUnrecognizedHighlightMatchesMode:'Требуется другой режим выделения совпадений. Выберите значение из "multi", "contains", "startsWith", "full" и "null".',errorIncorrectGroupingKey:"Неправильный ключ группирования."};$.ig.Combo.locale=$.ig.Combo.locale||$.ig.locale.ru.Combo;return $.ig.locale.ru.Combo});

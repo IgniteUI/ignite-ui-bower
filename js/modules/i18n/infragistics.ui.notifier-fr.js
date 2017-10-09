@@ -1,9 +1,9 @@
 /*!@license
-* Infragistics.Web.ClientUI Notifier localization resources 17.2.0-beta.1
+* Infragistics.Web.ClientUI Notifier localization resources 17.2.0-rc.1
 *
 * Copyright (c) 2011-2017 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *
 */
-(function(factory){if(typeof define==="function"&&define.amd){define([],factory)}else{factory()}})(function(){$=$||{};$.ig=$.ig||{};$.ig.locale=$.ig.locale||{};$.ig.locale.fr=$.ig.locale.fr||{};$.ig.Notifier=$.ig.Notifier||{};$.ig.locale.fr.Notifier={successMsg:"Réussite",errorMsg:"Erreur",warningMsg:"Avertissement",infoMsg:"Information",notSupportedState:"État de notification non pris en charge ! Utilisez un des états pris en charge 'success', 'info', 'warning', 'error'",notSupportedMode:"Mode de notification non pris en charge ! Utilisez un des modes pris en charge 'auto', 'popover', 'inline'"};$.ig.Notifier.locale=$.ig.Notifier.locale||$.ig.locale.fr.Notifier;return $.ig.locale.fr.Notifier});
+(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{return factory(jQuery)}})(function($){$.ig=$.ig||{};$.ig.locale=$.ig.locale||{};$.ig.locale.fr=$.ig.locale.fr||{};$.ig.Notifier=$.ig.Notifier||{};$.ig.locale.fr.Notifier={successMsg:"Réussite",errorMsg:"Erreur",warningMsg:"Avertissement",infoMsg:"Information",notSupportedState:"État de notification non pris en charge ! Utilisez un des états pris en charge 'success', 'info', 'warning', 'error'",notSupportedMode:"Mode de notification non pris en charge ! Utilisez un des modes pris en charge 'auto', 'popover', 'inline'"};$.ig.Notifier.locale=$.ig.Notifier.locale||$.ig.locale.fr.Notifier;return $.ig.locale.fr.Notifier});

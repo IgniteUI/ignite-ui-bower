@@ -1,4 +1,4 @@
-/*!@license Infragistics.Web.Loader 17.2.0-rc.1
+/*!@license Infragistics.Web.Loader 17.2.0-rc.2
 *
 * Copyright (c) 2011-2017 Infragistics Inc.
 *

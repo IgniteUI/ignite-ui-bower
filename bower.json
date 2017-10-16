@@ -1,6 +1,6 @@
 {
   "name": "ignite-ui",
-  "version": "17.2.0-rc.2",
+  "version": "17.2.0-rc.3",
   "ignore": [
     "**/.*",
     "*.md",

@@ -1,9 +1,9 @@
 /*!@license
-* Infragistics.Web.ClientUI Notifier localization resources 16.2.2237
+* Infragistics.Web.ClientUI Notifier localization resources 17.2.0-rc.4
 *
 * Copyright (c) 2011-2017 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *
 */
-(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{factory(jQuery)}})(function($){$.ig=$.ig||{};if(!$.ig.Notifier){$.ig.Notifier={};$.extend($.ig.Notifier,{locale:{successMsg:"Erfolgreich",errorMsg:"Fehler",warningMsg:"Warnung"}})}});
+(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{return factory(jQuery)}})(function($){$.ig=$.ig||{};$.ig.locale=$.ig.locale||{};$.ig.locale.de=$.ig.locale.de||{};$.ig.Notifier=$.ig.Notifier||{};$.ig.locale.de.Notifier={successMsg:"Erfolgreich",errorMsg:"Fehler",warningMsg:"Warnung",infoMsg:"Informationen",notSupportedState:"Benachrichtigungsstatus wird nicht unterstützt! Verwenden Sie einen der unterstützten Status 'success', 'info', 'warning', 'error'",notSupportedMode:"Benachrichtigungsmodus wird nicht unterstützt! Verwenden Sie einen der unterstützten Modi 'auto', 'popover', 'inline'"};$.ig.Notifier.locale=$.ig.Notifier.locale||$.ig.locale.de.Notifier;return $.ig.locale.de.Notifier});

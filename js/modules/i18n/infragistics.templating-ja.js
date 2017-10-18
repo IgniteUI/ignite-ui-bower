@@ -1,9 +1,9 @@
 /*!@license
-* Infragistics.Web.ClientUI templating localization resources 16.2.2237
+* Infragistics.Web.ClientUI templating localization resources 17.2.0-rc.4
 *
 * Copyright (c) 2011-2017 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *
 */
-(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{factory(jQuery)}})(function($){$.ig=$.ig||{};if(!$.ig.Templating){$.ig.Templating={};$.extend($.ig.Templating,{locale:{undefinedArgument:"データ ソース プロパティを取得する際にエラーが発生しました: "}})}});
+(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{return factory(jQuery)}})(function($){$.ig=$.ig||{};$.ig.locale=$.ig.locale||{};$.ig.locale.ja=$.ig.locale.ja||{};$.ig.Templating=$.ig.Templating||{};$.ig.locale.ja.Templating={undefinedArgument:"データ ソース プロパティを取得する際にエラーが発生しました: "};$.ig.Templating.locale=$.ig.Templating.locale||$.ig.locale.ja.Templating;return $.ig.locale.ja.Templating});

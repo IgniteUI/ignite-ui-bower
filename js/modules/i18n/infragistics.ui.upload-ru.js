@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Upload localization resources 17.1.2029
+* Infragistics.Web.ClientUI Upload localization resources 16.2.2237
 *
 * Copyright (c) 2011-2017 Infragistics Inc.
 *

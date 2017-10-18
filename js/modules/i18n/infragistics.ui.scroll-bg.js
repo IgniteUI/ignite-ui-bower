@@ -1,9 +1,9 @@
 /*!@license
-* Infragistics.Web.ClientUI Scroll localization resources 17.2.0-rc.3
+* Infragistics.Web.ClientUI Scroll localization resources 17.1.2029
 *
 * Copyright (c) 2011-2017 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *
 */
-(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{return factory(jQuery)}})(function($){$.ig=$.ig||{};$.ig.Scroll=$.ig.Scroll||{};$.ig.locale=$.ig.locale||{};$.ig.locale.bg=$.ig.locale.bg||{};$.ig.locale.bg.Scroll={errorNoElementLink:"Елементът, който бива свързван, не съществува.",errorNoScrollbarLink:"Елементът плъзгач, който бива свързван, не съществува."};$.ig.Scroll.locale=$.ig.Scroll.locale||$.ig.locale.bg.Scroll;return $.ig.locale.bg.Scroll});
+(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{factory(jQuery)}})(function($){$.ig=$.ig||{};if(!$.ig.Scroll){$.ig.Scroll={};$.extend($.ig.Scroll,{locale:{errorNoElementLink:"Елементът, който бива свързван, не съществува.",errorNoScrollbarLink:"Елементът плъзгач, който бива свързван, не съществува."}})}});

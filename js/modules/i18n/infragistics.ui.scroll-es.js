@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Scroll localization resources 17.2.0-rc.6
+* Infragistics.Web.ClientUI Scroll localization resources 17.2.66
 *
 * Copyright (c) 2011-2017 Infragistics Inc.
 *

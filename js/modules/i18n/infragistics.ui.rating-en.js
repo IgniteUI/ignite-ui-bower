@@ -1,9 +1,9 @@
 /*!@license
-* Infragistics.Web.ClientUI Rating localization resources 17.2.66
+* Infragistics.Web.ClientUI Rating localization resources 17.1.2064-beta.0
 *
-* Copyright (c) 2011-2017 Infragistics Inc.
+* Copyright (c) 2011-2018 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *
 */
-(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{return factory(jQuery)}})(function($){$.ig=$.ig||{};$.ig.Rating=$.ig.Rating||{};$.ig.locale=$.ig.locale||{};$.ig.locale.en=$.ig.locale.en||{};$.ig.locale.en.Rating={setOptionError:"Runtime changes are not allowed for the following option: "};$.ig.Rating.locale=$.ig.Rating.locale||$.ig.locale.en.Rating;return $.ig.locale.en.Rating});
+(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{factory(jQuery)}})(function($){$.ig=$.ig||{};if(!$.ig.Rating){$.ig.Rating={};$.extend($.ig.Rating,{locale:{setOptionError:"Runtime changes are not allowed for the following option: "}})}});

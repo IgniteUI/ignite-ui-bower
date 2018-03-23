@@ -1,6 +1,6 @@
 {
   "name": "ignite-ui",
-  "version": "17.2.66",
+  "version": "17.1.2064-beta.0",
   "ignore": [
     "**/.*",
     "*.md",
@@ -22,7 +22,6 @@
     "knockout.mapping": "^2.0.1",
     "jquery-tmpl": "*",
     "JSON-js": "*",
-    "xmldom": "^0.1.16",
-    "requirejs": "^2.3.3"
+    "xmldom": "^0.1.16"
   }
 }

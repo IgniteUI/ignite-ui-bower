@@ -1,7 +1,7 @@
 /*!@license
- * Infragistics.Web.ClientUI Util functions 17.2.66
+ * Infragistics.Web.ClientUI Util functions 17.1.2064-beta.0
  *
- * Copyright (c) 2011-2017 Infragistics Inc.
+ * Copyright (c) 2011-2018 Infragistics Inc.
  *
  * util functions that extend the jQuery  namespace
  * if something is not already available in jQuery, please add it here.

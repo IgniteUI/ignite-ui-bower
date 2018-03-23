@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Dialog localization resources 17.2.494-beta.0
+* Infragistics.Web.ClientUI Dialog localization resources 18.1.0-rc.1
 *
 * Copyright (c) 2011-2018 Infragistics Inc.
 *

@@ -1,5 +1,5 @@
 /*!@license
- * Infragistics.Web.ClientUI Util functions 17.1.2065
+ * Infragistics.Web.ClientUI Util functions 17.2.495
  *
  * Copyright (c) 2011-2018 Infragistics Inc.
  *

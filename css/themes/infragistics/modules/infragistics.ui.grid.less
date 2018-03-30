@@ -2,6 +2,12 @@
 /* igGrid */
 /**********/
 
+.ui-iggrid table tbody td,
+.ui-iggrid .ui-iggrid-header,
+.ui-iggrid table th {
+  /*padding: 10px;*/
+}
+
 .ui-iggrid .ui-iggrid-groupbyarea {
   background-color: @body-bg;
   border-color: @table-border-color;
@@ -271,16 +277,15 @@
   border-right: 1px solid transparent;
 }
 
+.ui-iggrid tbody td.ui-state-hover {
+  border-color: transparent;
+}
+
 .ui-iggrid-headertable-mrl.ui-iggrid-headertable-mrl-scrollable,
-.ui-iggrid .ui-iggrid-table-mrl tbody td  {
-  border-right-color: @table-border-color;
+.ui-iggrid .ui-iggrid-table-mrl tbody td {
+  border-right: 1px solid @table-border-color;
 }
-
-.ui-iggrid-headertable-mrl.ui-iggrid-headertable-mrl-scrollable tr th {
-  border-right: 0;
-}
-
-/* END 246065 */
+/* BUG 246065 END */
 
 .ui-iggrid tbody td,
 .ui-iggrid tbody th.ui-iggrid-rowselector-class,

@@ -1,9 +1,9 @@
 /*!@license
-* Infragistics.Web.ClientUI Scroll localization resources 18.1.0-rc.1
+* Infragistics.Web.ClientUI Scroll localization resources 17.1.2065
 *
 * Copyright (c) 2011-2018 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *
 */
-(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{return factory(jQuery)}})(function($){$.ig=$.ig||{};$.ig.Scroll=$.ig.Scroll||{};$.ig.locale=$.ig.locale||{};$.ig.locale.es=$.ig.locale.es||{};$.ig.locale.es.Scroll={errorNoElementLink:"El elemento que se está vinculando no existe.",errorNoScrollbarLink:"El elemento de la barra de desplazamiento que se está vinculando no existe."};$.ig.Scroll.locale=$.ig.Scroll.locale||$.ig.locale.es.Scroll;return $.ig.locale.es.Scroll});
+(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{factory(jQuery)}})(function($){$.ig=$.ig||{};if(!$.ig.Scroll){$.ig.Scroll={};$.extend($.ig.Scroll,{locale:{errorNoElementLink:"El elemento que se está vinculando no existe.",errorNoScrollbarLink:"El elemento de la barra de desplazamiento que se está vinculando no existe."}})}});

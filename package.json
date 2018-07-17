@@ -1,6 +1,6 @@
 {
   "name": "ignite-ui",
-  "version": "18.1.30",
+  "version": "17.1.2082",
   "description": "Ignite UI by Infragistics",
   "homepage": "http://www.igniteui.com/",
   "repository": {
@@ -18,7 +18,7 @@
     "url": "https://github.com/IgniteUI/ignite-ui/issues"
   },
   "license": "Apache-2.0",
-  "peerDependencies": {
+  "optionalDependencies": {
     "jquery": ">=1.9.1",
     "jquery-ui": ">=1.10.5"
   }

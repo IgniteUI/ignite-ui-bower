@@ -1,9 +1,9 @@
 /*!@license
-* Infragistics.Web.ClientUI Rating localization resources 18.1.30
+* Infragistics.Web.ClientUI Rating localization resources 17.1.2082
 *
 * Copyright (c) 2011-2018 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *
 */
-(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{return factory(jQuery)}})(function($){$.ig=$.ig||{};$.ig.Rating=$.ig.Rating||{};$.ig.locale=$.ig.locale||{};$.ig.locale.ja=$.ig.locale.ja||{};$.ig.locale.ja.Rating={setOptionError:"次のオプションはランタイムで変更できません: "};$.ig.Rating.locale=$.ig.Rating.locale||$.ig.locale.ja.Rating;return $.ig.locale.ja.Rating});
+(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{factory(jQuery)}})(function($){$.ig=$.ig||{};if(!$.ig.Rating){$.ig.Rating={};$.extend($.ig.Rating,{locale:{setOptionError:"次のオプションはランタイムで変更できません: "}})}});

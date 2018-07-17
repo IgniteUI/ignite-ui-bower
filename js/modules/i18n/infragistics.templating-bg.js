@@ -1,9 +1,9 @@
 /*!@license
-* Infragistics.Web.ClientUI templating localization resources 18.1.30
+* Infragistics.Web.ClientUI templating localization resources 17.1.2082
 *
 * Copyright (c) 2011-2018 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *
 */
-(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{return factory(jQuery)}})(function($){$.ig=$.ig||{};$.ig.locale=$.ig.locale||{};$.ig.locale.bg=$.ig.locale.bg||{};$.ig.Templating=$.ig.Templating||{};$.ig.locale.bg.Templating={undefinedArgument:"Грешка при опит да се вземе стойността на следното свойство от източника на данни: "};$.ig.Templating.locale=$.ig.Templating.locale||$.ig.locale.bg.Templating;return $.ig.locale.bg.Templating});
+(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{factory(jQuery)}})(function($){$.ig=$.ig||{};if(!$.ig.Templating){$.ig.Templating={};$.extend($.ig.Templating,{locale:{undefinedArgument:"Грешка при опит да се вземе стойността на следното свойство от източника на данни: "}})}});

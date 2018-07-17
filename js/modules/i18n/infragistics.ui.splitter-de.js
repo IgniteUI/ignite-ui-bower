@@ -1,9 +1,9 @@
 /*!@license
-* Infragistics.Web.ClientUI Splitter localization resources 17.1.2082
+* Infragistics.Web.ClientUI Splitter localization resources 17.2.538
 *
 * Copyright (c) 2011-2018 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *
 */
-(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{factory(jQuery)}})(function($){$.ig=$.ig||{};if(!$.ig.Splitter){$.ig.Splitter={};$.extend($.ig.Splitter,{locale:{errorPanels:"Die Anzahl Bereiche muss größer als zwei sein.",errorSettingOption:"Option der Fehlereinstellung."}})}});
+(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{return factory(jQuery)}})(function($){$.ig=$.ig||{};$.ig.Splitter=$.ig.Splitter||{};$.ig.locale=$.ig.locale||{};$.ig.locale.de=$.ig.locale.de||{};$.ig.locale.de.Splitter={errorPanels:"Die Anzahl Bereiche muss größer als zwei sein.",errorSettingOption:"Option der Fehlereinstellung."};$.ig.Splitter.locale=$.ig.Splitter.locale||$.ig.locale.de.Splitter;return $.ig.locale.de.Splitter});

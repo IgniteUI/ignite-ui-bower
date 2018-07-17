@@ -1,9 +1,9 @@
 /*!@license
-* Infragistics.Web.ClientUI Scroll localization resources 17.1.2082
+* Infragistics.Web.ClientUI Scroll localization resources 17.2.538
 *
 * Copyright (c) 2011-2018 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *
 */
-(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{factory(jQuery)}})(function($){$.ig=$.ig||{};if(!$.ig.Scroll){$.ig.Scroll={};$.extend($.ig.Scroll,{locale:{errorNoElementLink:"リンクされている要素が存在しません。",errorNoScrollbarLink:"リンクされているスクロールバー要素が存在しません。"}})}});
+(function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{return factory(jQuery)}})(function($){$.ig=$.ig||{};$.ig.Scroll=$.ig.Scroll||{};$.ig.locale=$.ig.locale||{};$.ig.locale.ja=$.ig.locale.ja||{};$.ig.locale.ja.Scroll={errorNoElementLink:"リンクされている要素が存在しません。",errorNoScrollbarLink:"リンクされているスクロールバー要素が存在しません。"};$.ig.Scroll.locale=$.ig.Scroll.locale||$.ig.locale.ja.Scroll;return $.ig.locale.ja.Scroll});

@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI utilities localization resources 18.1.55
+* Infragistics.Web.ClientUI utilities localization resources 17.2.583
 *
 * Copyright (c) 2011-2018 Infragistics Inc.
 *

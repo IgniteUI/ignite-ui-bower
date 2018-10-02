@@ -8,25 +8,22 @@ Bootstrap 3 Themes
 3. Yeti
 4. superhero
 
-Theme source:
-https://bootswatch.com/
 
 
 ### Themes - file structure
+
 
 * **images** - Contain all images related to the theme
  
 * **infragistics.theme.less** - The root file which import all partial files.
  
-* **Modules** - Contain all theme styles related to ignite ui modules.
-
-* **Styles-guide** - In progress theme style guide
-
-* **framework.less** -  Contain all styles, that are needed, in order to make ignite UI component's to work properly witch jQueryUI components.
+* **infragistics-ignite-ui-controls** - Contain all theme styles related to ignite ui controls
  
-* **variables.less** - Theme variables.
+* **jquery-ui-overrides.less** -  Contain all styles, that are needed, in order to make ignite UI component's to work properly witch jQueryUI components.
  
-* **ignite-ui-variables.less** -Theme variables.
+* **variables.less** - Contain all bootstrap theme variables.
+ 
+* **ignite-ui-variables.less** - Contain all variables related to Ignite UI components
  
 * **mixins.less** - Contain all mixins related to Ignite UI components
 
@@ -35,30 +32,39 @@ https://bootswatch.com/
 **Note:** the root file "infragistics-theme-less" is the only file that needs to be compiled to .CSS
 
 
-**Note:** The order of File "@import" inside "infragistics.theme.less" is important! In order the theme to work correctly.
+**Note:** File "@import" order inside "infragistics.theme.less" is important! In order the theme to work correctly.
 
 
 
 ### File order:
 
 ```diff
-// Bootstrap Theme variables
+//Bootstrap Theme variables
 @import "variables.less";
-
-// Ignite UI Theme variables
+ 
+//Ignite UI Theme variables
 @import "ignite-ui-variables";
-
-// Ignite UI Mixins
+ 
+//Ignite UI mixins
 @import "mixins.less";
-
-//JQuery UI
-@import "framework.less";
-
+ 
+//Icons font
+@import (css)"../../../../structure/fonts/style.css";
+ 
+//JQuery UI styles
+@import (css)"../../../../structure/jquery-ui.css";
+ 
+//JQuery UI Overrides
+@import "jquery-ui-overrides.less";
+ 
 //Ignite UI styles
-@import "modules/modules.less";
-
-// Font styles
-@import (css)"icons-styles.css";
+@import "infragistics-ignite-ui-controls.less";
+ 
+//Font styles
+@import (css)"../../../../structure/icons-styles.css";
+ 
+//Use this file to override all infragistics & jQuery styles
+@import "overrides";
 ```
 
 
@@ -70,6 +76,8 @@ hold all files related to icons web font
 To add/remove/change icons form the web font:
 1. Go to [icomoon.io/app](icomoon.io/app) and upload the file "**jqurey-ui.svg**" located in: css/structure/fonts
 2. Make the desired modification, download and replace the changed font.
+
+
 
 **IMPORTANT:**
 in order the font to work you need to specify the prefix for the icons clsss. 

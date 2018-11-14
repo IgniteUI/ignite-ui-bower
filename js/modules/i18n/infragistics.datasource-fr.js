@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI data source localization resources 18.1.76
+* Infragistics.Web.ClientUI data source localization resources 18.2.43
 *
 * Copyright (c) 2011-2018 Infragistics Inc.
 *

@@ -1,5 +1,5 @@
 /*!@license
- * Infragistics.Web.ClientUI igTree KnockoutJS extension 18.1.76
+ * Infragistics.Web.ClientUI igTree KnockoutJS extension 18.2.43
  *
  * Copyright (c) 2011-2018 Infragistics Inc.
  *

@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Rating localization resources 18.2.43
+* Infragistics.Web.ClientUI Rating localization resources 17.2.609
 *
 * Copyright (c) 2011-2018 Infragistics Inc.
 *

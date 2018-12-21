@@ -2,6 +2,12 @@
 /* igGrid */
 /**********/
 
+.ui-iggrid table tbody td,
+.ui-iggrid .ui-iggrid-header,
+.ui-iggrid table th {
+  /*padding: 10px;*/
+}
+
 .ui-iggrid th,
 .ui-iggrid th.ui-widget-header.ui-state-default {
   border-top: 1px solid @table-border-color;
@@ -271,20 +277,18 @@
   color: @ui-icons-darker;
 }
 
-/* BUG 246065 Marin Popov 07.12.2017 Grid's header and body are misaligned when a grid is Multi Row Layout and is continuous virtualization mode.*/
+/* BUG 246065 Marin Popov 23.12.2017 Grid's header and body are misaligned when a grid is Multi Row Layout and is continuous virtualization mode.*/
 .ui-iggrid tbody td {
   border-left: 1px solid transparent;
   border-right: 1px solid transparent;
 }
 
-.ui-iggrid tbody td.ui-state-hover {
-  border-color: transparent;
+.ui-iggrid-headertable-mrl.ui-iggrid-headertable-mrl-scrollable,
+.ui-iggrid .ui-iggrid-table-mrl tbody td {
+  border-right: 1px solid @table-border-color;
 }
+/* BUG 246065 END */
 
-.ui-iggrid-headertable-mrl.ui-iggrid-headertable-mrl-scrollable {
-  border-right-color: @table-border-color;
-}
-/* END 246065 */
 
 .ui-iggrid tbody td,
 .ui-iggrid thead .ui-iggrid-editingcell,
@@ -498,8 +502,7 @@
 .ui-iggrid-columnmoving-dropdown-list li.ui-state-active,
 .ui-iggrid-columnmoving-dropdown-list.ui-state-active a,
 .ui-igcombo-listitemholder li.ui-state-active,
-.ui-igcombo-listitemholder li.ui-state-active a
-{
+.ui-igcombo-listitemholder li.ui-state-active a {
   .stateActive;
 }
 
@@ -513,6 +516,7 @@
 .ui-igedit-dropdown .ui-igedit-listitem.ui-state-hover a,
 .ui-igedit-list .ui-igedit-listitem.ui-state-hover a,
 .ui-igedit-list .ui-igedit-listitem.ui-state-active a {
+
   color: #FFFFFF;
 }
 /* Group by */

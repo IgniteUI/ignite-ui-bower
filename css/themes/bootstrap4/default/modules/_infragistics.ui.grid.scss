@@ -180,6 +180,7 @@
   border-top: 0 !important;
 }
 
+
 .ui-iggrid .ui-widget-header,
 .ui-iggrid th,
 .ui-iggrid th.ui-state-default {
@@ -286,14 +287,11 @@
   border-right: 1px solid transparent;
 }
 
-.ui-iggrid tbody td.ui-state-hover {
-  border-color: transparent;
+.ui-iggrid-headertable-mrl.ui-iggrid-headertable-mrl-scrollable,
+.ui-iggrid .ui-iggrid-table-mrl tbody td{
+  border-right: 1px solid $table-border-color;
 }
-
-.ui-iggrid-headertable-mrl.ui-iggrid-headertable-mrl-scrollable {
-  border-right-color: $table-border-color;
-}
-/* END 246065 */
+/* BUG 246065 END */
 
 .ui-iggrid tbody td,
 .ui-iggrid thead .ui-iggrid-editingcell,
@@ -502,7 +500,7 @@
 .ui-iggrid-columnmoving-dropdown-list li.ui-state-active,
 .ui-iggrid-columnmoving-dropdown-list.ui-state-active a,
 .ui-igcombo-listitemholder li.ui-state-active,
-.ui-igcombo-listitemholder li.ui-state-active a {
+.ui-igcombo-listitemholder li.ui-state-active a{
   @include stateActive;
 }
 

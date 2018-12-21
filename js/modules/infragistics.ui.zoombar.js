@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Zoombar localization resources 17.2.609
+* Infragistics.Web.ClientUI Zoombar localization resources 18.2.50
 *
 * Copyright (c) 2011-2018 Infragistics Inc.
 *
@@ -7,7 +7,7 @@
 *
 */
 (function(factory){if(typeof define==="function"&&define.amd){define(["jquery"],factory)}else{return factory(jQuery)}})(function($){$.ig=$.ig||{};$.ig.Zoombar=$.ig.Zoombar||{};$.ig.locale=$.ig.locale||{};$.ig.locale.en=$.ig.locale.en||{};$.ig.locale.en.Zoombar={zoombarTargetNotSpecified:"igZoombar requires a valid target to attach to!",zoombarTypeNotSupported:"The type of widget the Zoombar is trying to attach to is not supported!",zoombarProviderNotRecognized:"igZoombar could not initialize a provider from the class specified or the value passed is not a class.",optionChangeNotSupported:"Changing the following option after the igZoombar has been created is not supported:"};$.ig.Zoombar.locale=$.ig.Zoombar.locale||$.ig.locale.en.Zoombar;return $.ig.locale.en.Zoombar});/*!@license
- * Infragistics.Web.ClientUI ZoomBar 17.2.609
+ * Infragistics.Web.ClientUI ZoomBar 18.2.50
  *
  * Copyright (c) 2011-2018 Infragistics Inc.
  *

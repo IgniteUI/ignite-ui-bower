@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Combo localization resources 18.2.67
+* Infragistics.Web.ClientUI Combo localization resources 19.1.20
 *
 * Copyright (c) 2011-2019 Infragistics Inc.
 *

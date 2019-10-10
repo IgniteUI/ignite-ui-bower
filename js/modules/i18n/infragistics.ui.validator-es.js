@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Validator localization resources 19.1.5
+* Infragistics.Web.ClientUI Validator localization resources 18.2.67
 *
 * Copyright (c) 2011-2019 Infragistics Inc.
 *

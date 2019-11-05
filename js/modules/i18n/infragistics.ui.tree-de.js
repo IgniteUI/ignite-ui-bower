@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Tree localization resources 19.1.20
+* Infragistics.Web.ClientUI Tree localization resources 19.2.23
 *
 * Copyright (c) 2011-2019 Infragistics Inc.
 *

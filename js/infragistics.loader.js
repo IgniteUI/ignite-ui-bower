@@ -1,4 +1,4 @@
-/*!@license Infragistics.Web.Loader 19.1.30
+/*!@license Infragistics.Web.Loader 19.2.53
 *
 * Copyright (c) 2011-2020 Infragistics Inc.
 *

@@ -1,7 +1,7 @@
 /*!@license
-* Infragistics.Web.ClientUI Zoombar localization resources 19.2.23
+* Infragistics.Web.ClientUI Zoombar localization resources 19.1.30
 *
-* Copyright (c) 2011-2019 Infragistics Inc.
+* Copyright (c) 2011-2020 Infragistics Inc.
 *
 * http://www.infragistics.com/
 *

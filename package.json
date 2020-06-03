@@ -1,7 +1,7 @@
 {
   "name": "ignite-ui",
-  "version": "19.2.53",
-  "description": "Ignite UI by Infragistics",
+  "version": "20.1.26",
+  "description": "Ignite UI for jQuery by Infragistics",
   "homepage": "http://www.igniteui.com/",
   "repository": {
     "type": "git",
@@ -10,6 +10,7 @@
   "keywords": [
     "igniteui",
     "ignite ui",
+    "ignite ui for jquery",
     "infragistics",
     "jquery controls",
     "jquery widgets"

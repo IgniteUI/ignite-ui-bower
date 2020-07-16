@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Popover localization resources 19.2.55
+* Infragistics.Web.ClientUI Popover localization resources 20.1.32
 *
 * Copyright (c) 2011-2020 Infragistics Inc.
 *

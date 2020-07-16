@@ -16,15 +16,15 @@
 
 * **infragistics.theme.less** - すべての部分ファイルをインポートするルート ファイル。
 
-* **Modules** - Ignite UI for jQuery モジュールに関連するすべてのテーマ スタイルを含みます。
+* **Modules** - Ignite UI モジュールに関連するすべてのテーマ スタイルを含みます。
 
 * **Styles-guide** - テーマのスタイル ガイド (作業中)。
 
-* **framework.less** -  Ignite UI for jQuery コンポーネントを jQueryUI コンポーネントと正しく動作させるために必要なスタイルをすべて含みます。
+* **framework.less** -  Ignite UI コンポーネントを jQueryUI コンポーネントと正しく動作させるために必要なスタイルをすべて含みます。
 
 * **variables.less** - テーマ変数。
  
-* **mixins.less** - Ignite UI for jQuery コンポーネントに関連するすべての mixins を含みます。
+* **mixins.less** - Ignite UI コンポーネントに関連するすべての mixins を含みます。
 
 
 **注:** ルート "infragistics-theme-less" ファイルは、.CSS にコンパイルする必要のある唯一のファイルです。
@@ -33,10 +33,10 @@
 ### ファイルの順序:
 
 ```diff
-// Ignite UI for jQuery Theme variables
+// Ignite UI Theme variables
 @import "variables.less";
 
-// Ignite UI for jQuery Mixins
+// Ignite UI Mixins
 @import "mixins.less";
 
 // Font styles
@@ -45,7 +45,7 @@
 // JQuery UI Theme
 @import "framework.less";
 
-//Ignite UI for jQuery modules
+//Ignite UI modules
 @import "modules/modules";
 ```
 

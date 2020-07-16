@@ -17,15 +17,15 @@ Infragistics Themes
 
 * **infragistics.theme.less** - The root file which import all partial files.
 
-* **Modules** - Contain all theme styles related to Ignite UI for jQuery modules.
+* **Modules** - Contain all theme styles related to ignite ui modules.
 
 * **Styles-guide** - In progress theme style guide
 
-* **framework.less** -  Contain all styles, that are needed, in order to make Ignite UI for jQuery component's to work properly witch jQueryUI components.
+* **framework.less** -  Contain all styles, that are needed, in order to make ignite UI component's to work properly witch jQueryUI components.
 
 * **variables.less** - Theme variables.
  
-* **mixins.less** - Contain all mixins related to Ignite UI for jQuery components
+* **mixins.less** - Contain all mixins related to Ignite UI components
 
 
 **Note:** the root file "infragistics-theme-less" is the only file that needs to be compiled to .CSS
@@ -34,10 +34,10 @@ Infragistics Themes
 ### File order:
 
 ```diff
-// Ignite UI for jQuery Theme variables
+// Ignite UI Theme variables
 @import "variables.less";
 
-// Ignite UI for jQuery Mixins
+// Ignite UI Mixins
 @import "mixins.less";
 
 // Font styles
@@ -46,7 +46,7 @@ Infragistics Themes
 // JQuery UI Theme
 @import "framework.less";
 
-//Ignite UI for jQuery modules
+//Ignite UI modules
 @import "modules/modules";
 ```
 

@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Video Player localization resources 19.2.60
+* Infragistics.Web.ClientUI Video Player localization resources 20.1.36
 *
 * Copyright (c) 2011-2020 Infragistics Inc.
 *

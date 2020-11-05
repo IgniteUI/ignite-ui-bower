@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Dialog localization resources 20.1.32
+* Infragistics.Web.ClientUI Dialog localization resources 19.2.60
 *
 * Copyright (c) 2011-2020 Infragistics Inc.
 *

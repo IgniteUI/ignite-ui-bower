@@ -1,5 +1,5 @@
 /*!@license
-* Infragistics.Web.ClientUI Splitter localization resources 20.1.36
+* Infragistics.Web.ClientUI Splitter localization resources 20.2.7
 *
 * Copyright (c) 2011-2020 Infragistics Inc.
 *
